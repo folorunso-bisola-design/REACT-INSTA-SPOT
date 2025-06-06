@@ -14,9 +14,7 @@ html {
   font-family: var(--font-poppins);
 }
 
-/* ... entire rest of your CSS exactly as you wrote it ... */
 
-/* Example: */
 body,
 main {
   display: flex;
