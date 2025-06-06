@@ -1,0 +1,26 @@
+:root {
+  --background: #fcf5e5;
+  --primary: #212121;
+  --primary-hover: #212121cc;
+
+  --font-dm-mono: "DM Mono", monospace;
+  --font-poppins: "Poppins", sans-serif;
+
+  --modal-close-btn-bg-clr: #ff0000;
+  --modal-close-btn-text-clr: #fff;
+}
+
+html {
+  font-family: var(--font-poppins);
+}
+
+/* ... entire rest of your CSS exactly as you wrote it ... */
+
+/* Example: */
+body,
+main {
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+  width: 100%;
+}
